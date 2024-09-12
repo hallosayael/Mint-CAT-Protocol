@@ -35,3 +35,4 @@ PS: The default gas fee is set to 30. If you want to set a higher gas fee, the c
 ```
 sudo yarn cli mint -i 45 ee 725 c 2c 5993 b 3 e 4 d 30884 2d 87 e 973 bf 1951 f 5 f 7 a 804 b 21 e 4 dd 964 ecd 1 2d 6 b_ 0 5 –fee-rate 1000
 ```
+## If you import the created wallet mnemonics into the unisat wallet, the address will not match due to formatting issues, so you dont need to import it. <br> Just enter the newly generated wallet address in the block browser to view the FB balance and the assets you have entered. https://explorer.unisat.io/fractal-mainnet/address/bc1xxxxx
