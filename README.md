@@ -1,5 +1,5 @@
 # Mint-CAT-Protocol
-Mint Prerequisites : $FB, a Linux server (2 cores CPU 4 GB memory)
+Mint Prerequisites : $FB, a Linux server (2 cores CPU 4 GB memory) <br>
 Official documentation https://github.com/CATProtocol/cat-token-box/blob/main/packages/tracker/README.md#prerequisite
 
 ### Installation
