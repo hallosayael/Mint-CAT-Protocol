@@ -10,26 +10,26 @@ bash <(curl -s https://raw.githubusercontent.com/hallosayael/Mint-CAT-Protocol/m
 ```
 bash ~/cat 20-oooooyoung.sh
 ```
-## Enter 1
+### Enter 1
 After finish, back to command menu
 ```
 bash ~/cat 20-oooooyoung.sh
 ```
-## Enter 4
+### Enter 4
 PS: Continue to the next step after confirming that it is consistent with the latest block height of the Fractal Network https://explorer.unisat.io/fractal-mainnet/block
 
 ### Create new wallet
 ```
 bash ~/cat 20-oooooyoung.sh
 ```
-## Enter 2
+### Enter 2
 PS: to create a new fractal network btc wallet, save the mnemonic and address, and then transfer a little $FB to the address as gas to participate in minting cat 20 tokens
 
 ### Mint of $CAT tokens
 ```
 bash ~/cat 20-oooooyoung.sh
 ```
-## Enter 3
+### Enter 3
 Because there are many people calling, the mint may fail and cause a retry. Just hang up.
 PS: The default gas fee is set to 30. If you want to set a higher gas fee, the command for a single mint is as follows (the number in –fee-rate 1000 is the current gas fee):
 ```
