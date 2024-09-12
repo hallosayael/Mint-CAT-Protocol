@@ -11,15 +11,15 @@ bash <(curl -s https://raw.githubusercontent.com/hallosayael/Mint-CAT-Protocol/m
 bash ~/cat 20-oooooyoung.sh
 ```
 ### Enter 1
-After finish, back to command menu
-```
-bash ~/cat 20-oooooyoung.sh
-```
 ### Open port 5432, 3000, 8332
 ```
 sudo ufw allow 5432
 sudo ufw allow 3000
 sudo ufw allow 8332
+```
+After finish, back to command menu
+```
+bash ~/cat 20-oooooyoung.sh
 ```
 ### Enter 4
 PS: Continue to the next step after confirming that it is consistent with the latest block height of the Fractal Network https://explorer.unisat.io/fractal-mainnet/block
