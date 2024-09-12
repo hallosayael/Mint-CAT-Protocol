@@ -30,7 +30,7 @@ PS: to create a new fractal network btc wallet, save the mnemonic and address, a
 bash ~/cat 20-oooooyoung.sh
 ```
 ### Enter 3
-Because there are many people calling, the mint may fail and cause a retry. Just hang up.
+Because there are many people calling, the mint may fail and cause a retry. Just hang up. <br>
 PS: The default gas fee is set to 30. If you want to set a higher gas fee, the command for a single mint is as follows (the number in –fee-rate 1000 is the current gas fee):
 ```
 sudo yarn cli mint -i 45 ee 725 c 2c 5993 b 3 e 4 d 30884 2d 87 e 973 bf 1951 f 5 f 7 a 804 b 21 e 4 dd 964 ecd 1 2d 6 b_ 0 5 –fee-rate 1000
